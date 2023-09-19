@@ -6838,3 +6838,9 @@ node_modules/proxy-from-env/LICENSE
 node_modules/proxy-from-env/package.json
 node_modules/proxy-from-env/README.md
 node_modules/proxy-from-env/test.js
+node_modules/.bin/loose-envify.cmd
+node_modules/.bin/loose-envify.ps1
+node_modules/.bin/resolve.cmd
+node_modules/.bin/resolve.ps1
+package-lock.json
+.gitignore
